@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3424e214debb4529a6d87df74d323954, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  _db:
+  - name: ID=0  ( Chara_00 )
+    <Id>k__BackingField: 0
+    <Prefab>k__BackingField: {fileID: 1795478270228080, guid: 2ab8321fe1cca3049b56c26509622067,
+      type: 3}
+  - name: ID=1  ( Chara_01 )
+    <Id>k__BackingField: 1
+    <Prefab>k__BackingField: {fileID: 1127201255718994, guid: a8a128c7bf0083645ae7193d0cb46d2d,
+      type: 3}
+  - name: ID=2  ( Chara_02 )
+    <Id>k__BackingField: 2
+    <Prefab>k__BackingField: {fileID: 1105837956759040, guid: f31fb566307b463498f311cee18dac07,
+      type: 3}
+  - name: ID=3  ( Chara_03 )
+    <Id>k__BackingField: 3
+    <Prefab>k__BackingField: {fileID: 1553394608689126, guid: ba91827772c36b440ab61f47c756e0f7,
+      type: 3}
+  - name: ID=4  ( Chara_04 )
+    <Id>k__BackingField: 4
+    <Prefab>k__BackingField: {fileID: 1021901424772370, guid: e9aca9fd5af816747b70d3de5e00a397,
+      type: 3}
+  - name: ID=5  ( Chara_05 )
+    <Id>k__BackingField: 5
+    <Prefab>k__BackingField: {fileID: 1273459488992386, guid: 40f14f46c517bfd4f9bf2e1d81247bc6,
+      type: 3}
+  - name: ID=6  ( Chara_06 )
+    <Id>k__BackingField: 6
+    <Prefab>k__BackingField: {fileID: 1837153500598690, guid: e333f712e0f4cd54694dff55e08610dc,
+      type: 3}
+  - name: ID=7  ( Chara_07 )
+    <Id>k__BackingField: 7
+    <Prefab>k__BackingField: {fileID: 1023704210731312, guid: 0b50b221a0513d8478712a57f0ae2432,
+      type: 3}
+  - name: ID=8  ( Chara_08 )
+    <Id>k__BackingField: 8
+    <Prefab>k__BackingField: {fileID: 1810938777085504, guid: 3658b709125fc2041a7e1693380ef76b,
+      type: 3}
+  - name: ID=9  ( Chara_09 )
+    <Id>k__BackingField: 9
+    <Prefab>k__BackingField: {fileID: 1080208091668130, guid: fabe0c86f03e51842b4b9eb28255180d,
+      type: 3}
+  - name: ID=10  ( Chara_10 )
+    <Id>k__BackingField: 10
+    <Prefab>k__BackingField: {fileID: 1336485181231658, guid: e5cb27b0420804e41a0f1be6d053e93a,
+      type: 3}
+  - name: ID=11  ( Chara_11 )
+    <Id>k__BackingField: 11
+    <Prefab>k__BackingField: {fileID: 1244940152763544, guid: efa51e2c87944684bb2a00c2fb21142d,
+      type: 3}
+  - name: ID=12  ( Chara_12 )
+    <Id>k__BackingField: 12
+    <Prefab>k__BackingField: {fileID: 1336953551914666, guid: 2959c4ab942d0fc48be373a20d14f013,
+      type: 3}
+  - name: ID=13  ( Chara_13 )
+    <Id>k__BackingField: 13
+    <Prefab>k__BackingField: {fileID: 1656935683847618, guid: 1592a01ba2b92644bbefab27fc295fcb,
+      type: 3}
+  - name: ID=14  ( Chara_14 )
+    <Id>k__BackingField: 14
+    <Prefab>k__BackingField: {fileID: 1337956163056606, guid: 513a08669601e7e4a8e38fcaf714c18a,
+      type: 3}
+  - name: ID=15  ( Chara_15 )
+    <Id>k__BackingField: 15
+    <Prefab>k__BackingField: {fileID: 1575703123195088, guid: 37ee29af06da16e49b0a52386580d035,
+      type: 3}
